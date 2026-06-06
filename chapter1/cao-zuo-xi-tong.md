@@ -1,9 +1,8 @@
-# 操作系统主要介绍当前主流的操作系统
+# 操作系统安全加固
 
-* Windows
-* Centos/Red-Hat
-* HP-UX
-* IBM AIX
+支持以下主流操作系统：
 
+* [Windows Server 2022 安全加固](windowsxi-tong.md) — 覆盖身份鉴别、访问控制、安全审计、入侵防范、恶意代码防范等7个控制点
+* [Linux RHEL 9 / CentOS 安全加固](linux.md) — 覆盖身份鉴别、访问控制、安全审计、入侵防范、数据加密等7个控制点
 
-
+每项加固均采用三重引用框架：GB/T 22239-2019 控制点 + CIS Benchmark 参考 + 具体操作命令。
